@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1764505074 source:c:\users\acer\documents\habibie\semester 3\struktur data\tubes\main.cpp
+	"TUBES.h"
+
+1764499691 c:\users\acer\documents\habibie\semester 3\struktur data\tubes\tubes.h
+	<iostream>
+	<string>
+	<cstring>
+	<cstdlib>
+
+1764505074 source:c:\users\acer\documents\habibie\semester 3\struktur data\tubes\tubes.cpp
+	"TUBES.h"
+	<iomanip>
+	<algorithm>
+	<cctype>
+
