@@ -1,0 +1,15 @@
+bin/
+obj/
+*.exe
+*.o
+*.obj
+
+# Code::Blocks files
+*.layout
+*.depend
+*.cbTemp
+*.save
+
+# Windows
+Thumbs.db
+desktop.ini
